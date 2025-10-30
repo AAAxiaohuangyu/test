@@ -1,8 +1,4 @@
 test
 Git tracks change
 AAAA
-<<<<<<< HEAD
 12345
-=======
-branch test
->>>>>>> feature1
