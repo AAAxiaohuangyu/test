@@ -1,6 +1,0 @@
-test
-Git tracks change
-AAAA
-12345
-not ff test
-i'm debuging.
